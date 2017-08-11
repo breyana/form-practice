@@ -6,13 +6,13 @@ Build a basic web app using Express which can send data to the server via an HTM
 
 The `action` property of the form should be set to `/submit-form`
 
-![form-get](https://curriculum.learnersguild.org/modules/Posting-Data-To-The-Server-With-A-Form/data/form-get.png)
+![form-get](./form-get.png)
 
 #### Form Post Page
 
 The `action` property of the form should be set to `/submit-form`
 
-![form-post](https://curriculum.learnersguild.org/modules/Posting-Data-To-The-Server-With-A-Form/data/form-post.png)
+![form-post](./form-post.png)
 
 
 #### Server Routes
