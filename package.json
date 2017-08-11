@@ -1,0 +1,24 @@
+{
+  "name": "form-practice",
+  "version": "1.0.0",
+  "description": "Build a basic web app using Express which can send data to the server via an HTML `<form>` element.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breyana/form-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breyana/form-practice/issues"
+  },
+  "homepage": "https://github.com/breyana/form-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
