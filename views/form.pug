@@ -1,0 +1,9 @@
+extends index.pug
+
+block content
+  form(action='/submit-form' method=method)
+    p Artist Name 
+      input(type='text' name='artist_name')
+    p Country 
+      input(type='text' name='country')
+    button(type='submit') Submit 
